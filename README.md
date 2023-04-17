@@ -1,33 +1,11 @@
----
-layout: page
-title: About
-permalink: /about/
----
+## 소개
+기억하고 싶은 것, 아니면 공유하고 싶은 내용을 저장해 두는 개인 블로그입니다.  
+소프트웨어 공학, 나의 생각, 일상, 기타 관심사들을 기록하고 있습니다.  
+성장기를 담는 아카이브가 됐으면 좋겠습니다 :)
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
+[개인 블로그 바로가기](https://racchoon.github.io/)  
 
-### Features
-- Responsive.
-- Syntax Highlight
-- Most optimized theme for tech blog.
-- Lightweight with minimum stylesheet.
-- Easy to customize.
-- Offers category menu.
-
-### _config.yml
-> Code block will look like this.
-```yml
-highlighter-theme: monokai //you can change your syntax color scheme.
-date_format: "%Y-%M-%D" //and date format.
-```
-
-### Screenshots
-#### Page
-![alt text](/public/img/screenshot-1.png)
-#### Articles
-![alt text](/public/img/screenshot-2.png)
-#### Page - Mobile
-![alt text](/public/img/screenshot-m1.png)
-#### Page - Articles
-![alt text](/public/img/screenshot-m2.png)
+## 지금까지 주제
+* spring
+* algorithm
+* 일상/생각

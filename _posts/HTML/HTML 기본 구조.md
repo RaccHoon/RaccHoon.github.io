@@ -2,7 +2,7 @@
 layout: post
 title: "HTML 기본 구조"
 date: 2023-04-18
-categories: HTML-CSS
+categories: HTML
 ---
 
 ## HTML 구조
